@@ -21,3 +21,4 @@ xnat/webapps
 *.env
 !default.env
 
+.aider*
